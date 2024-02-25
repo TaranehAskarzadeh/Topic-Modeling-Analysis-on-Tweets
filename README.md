@@ -7,7 +7,7 @@ This report presents the findings from a topic modeling analysis performed on a 
 
 ## Data collection
 ### Python Library Used:
-searchtweets: This is the Python library used for querying the Twitter API. It is specifically designed to construct queries and handle the interaction with the Twitter API, including authentication and pagination of results.
+
 ### Query Construction:
 gen_rule_payload: This function from the searchtweets library is used to generate the payload for the search rule, which will be sent to the Twitter API. The payload defines the search query and any additional parameters such as language or excluding retweets.
 ### Search Query:
