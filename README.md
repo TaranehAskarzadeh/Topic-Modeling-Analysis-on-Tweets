@@ -40,7 +40,7 @@ An LDA model was trained with the following parameters to best fit the data:
 
 
 ## Results
-The LDA model yielded a coherence score of 0.3719, indicating a reasonable level of topic coherence and interpretability. The identified topics, along with their descriptions and representative keywords, are as follows:
+The LDA model yielded a coherence score of 0.3719 (for 3 topic version), indicating a reasonable level of topic coherence and interpretability. The identified topics, along with their descriptions and representative keywords, are as follows:
 
 ## 1
 ### Topic 0: General Transportation and COVID-19
